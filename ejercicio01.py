@@ -3,7 +3,7 @@
 print("----- REGISTRO DE INGRESO -----")
 placa = input("Ingrese la placa del vehiculo: ")
 propietario = input("Ingrese el nombre del propietario: ")
-hora = input("Ingrese la hora de entrada (ejemplo 08:30): ")
+hora = input("Ingrese la hora de entrada en formato 24hr (ejemplo 08:30): ")
 
 print("")
 print("COMPROBANTE")
